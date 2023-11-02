@@ -10,7 +10,6 @@ export default function LayoutProvider({ children }: LayoutProviderProps) {
     <div
       style={{
           backgroundImage: "linear-gradient( -60deg,var(--mantine-color-blue-4) 0%,var(--mantine-color-blue-7) 100%)",
-          height:"100vh"
       }}
     >
       <AppHeader />
